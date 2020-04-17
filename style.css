@@ -1,0 +1,8 @@
+* {
+    background: #2E86C1;
+}
+canvas {
+    width: 1500px;
+    height: 715px;
+    background-image: url("img/maravillas.jpg");
+}
